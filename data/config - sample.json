@@ -1,0 +1,8 @@
+{
+    "USE_WU": true,
+    "WU_ID": "WeatherUnderground ID",
+    "WU_KEY": "[KEY]",
+    "USE_WC": false,
+    "WC_ID": "WeatherCloud ID",
+    "WC_KEY": "[KEY]"
+  }
